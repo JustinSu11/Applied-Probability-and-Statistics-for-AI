@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "81f7382b13e9e1ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53ed138ac81885b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b99a63906a1291f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Foundations + Python/Descriptive Statistics vs Inferential Statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descriptive Statistics vs Inferential Statistics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7890e02c888ea578",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9f5d3189698f57d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8837087884443a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cee0a3ca099575a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce120a513d0c876a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f827b3661c2e436",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8595e6e64ecc1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2907ec17d4f336c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Foundations + Python/Descriptive Statistics vs Inferential Statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Descriptive Statistics vs Inferential Statistics"
+            }
+          },
+          {
+            "id": "23bb48a2c3fb1218",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Foundations + Python/Descriptive Statistics vs Inferential Statistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Descriptive Statistics vs Inferential Statistics"
+            }
+          },
+          {
+            "id": "8a8becde2c750d7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4781e737ebaaee8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "299d8a6336158022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Foundations + Python/Descriptive Statistics vs Inferential Statistics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Descriptive Statistics vs Inferential Statistics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7b99a63906a1291f",
+  "lastOpenFiles": [
+    "0. Course Information.md",
+    "1. Foundations + Python/Descriptive Statistics vs Inferential Statistics.md",
+    "3. Sampling + the",
+    "2. Probability distributions",
+    "1. Foundations + Python",
+    "Welcome.md"
+  ]
+}
