@@ -42,4 +42,3 @@ Mode - Most frequent value
 
 Variability tells us how much the observation differ
 	Standard Deviation (SD) - Typical distance from the mean
-
