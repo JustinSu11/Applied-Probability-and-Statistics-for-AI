@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Foundations + Python/Python.md",
+                "file": "0. Course Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "0. Course Information"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Foundations + Python/Python.md",
+                "file": "0. Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python"
+              "title": "Backlinks for 0. Course Information"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Foundations + Python/Python.md",
+                "file": "0. Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python"
+              "title": "Outgoing links from 0. Course Information"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Foundations + Python/Python.md",
+                "file": "0. Course Information.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python"
+              "title": "Outline of 0. Course Information"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "7b99a63906a1291f",
   "lastOpenFiles": [
-    "requirements.txt",
     "1. Foundations + Python/Terms.md",
-    "1. Foundations + Python/Python.md",
     "0. Course Information.md",
+    "2. Probability distributions/Untitled.md",
+    "1. Foundations + Python/Python.md",
+    "requirements.txt",
     "3. Sampling + the",
     "2. Probability distributions",
     "1. Foundations + Python",
