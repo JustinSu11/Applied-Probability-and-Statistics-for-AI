@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Course Information.md",
+                "file": "2. Probability distributions/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Course Information"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Course Information.md",
+                "file": "2. Probability distributions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Course Information"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Course Information.md",
+                "file": "2. Probability distributions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. Course Information"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Course Information.md",
+                "file": "2. Probability distributions/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Course Information"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -185,17 +185,21 @@
   },
   "active": "7b99a63906a1291f",
   "lastOpenFiles": [
-    "MSAAI_ Program Preparedness and Resources.pdf",
-    "USD AAI500 Masterclass  090126 A.pptx",
-    "AAI500 Week 01 A.pptx",
-    "1. Foundations + Python/Terms.md",
     "0. Course Information.md",
+    "Assignments/assignment 1.1/resources/AAI_500_M1_Assignment.pdf",
+    "Assignments/assignment 1.1/resources/readme.md",
+    "Assignments/assignment 1.1/resources/AAI_500_M1_Assignment.html",
+    "Assignments/assignment 2.1/Justin_Nguyen_Assignment_2.1.ipynb",
+    "Assignments/assignment 1.1/resources",
+    "Assignments/assignment 1.1/AAI_500_M1_Assignment.pdf",
+    "Assignments/assignment 1.1/AAI_500_M1_Assignment.ipynb",
+    "Assignments/AAI 500 Student Help Sheet.docx",
+    "Assignments/assignment 2.1",
+    "Assignments/assignment 1.1",
+    "Assignments",
+    "1. Foundations + Python/Terms.md",
     "2. Probability distributions/Untitled.md",
     "1. Foundations + Python/Python.md",
-    "requirements.txt",
-    "3. Sampling + the",
-    "2. Probability distributions",
-    "1. Foundations + Python",
     "Welcome.md"
   ]
 }
