@@ -4,3 +4,4 @@ notebook
 ipykernel
 matplotlib
 scipy
+pip-system-certs
