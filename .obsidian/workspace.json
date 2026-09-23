@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Probability distributions/Untitled.md",
+                "file": "4. Chapter 4/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Testing"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,6 +187,13 @@
   },
   "active": "7b99a63906a1291f",
   "lastOpenFiles": [
+    "4. Chapter 4/Confidence Intervals.md",
+    "0. Course Information.md",
+    "1. Foundations + Python/Python.md",
+    "1. Foundations + Python/Terms.md",
+    "4. Chapter 4/Testing.md",
+    "Untitled.md",
+    "2. Probability distributions/Untitled.md",
     "Assignments/assignment 3.1/resources/AAI 500 Week 03 Assignment and Quiz Resource.pptx",
     "Assignments/assignment 3.1/resources",
     "3. Chapter 3/AAI500 Week 03 Lecture AA.pptx",
@@ -194,13 +203,8 @@
     "Assignments/assignment 1.1/Justin_Nguyen_Assignment_1.1.ipynb",
     "Assignments/assignment 3.1/Justin_Nguyen_Assignment_3.1.ipynb",
     "Assignments/assignment 3.1",
-    "0. Course Information.md",
     "Assignments/assignment 1.1/resources/AAI_500_M1_Assignment.pdf",
     "Assignments/assignment 1.1/resources/readme.md",
-    "Assignments/assignment 1.1/resources/AAI_500_M1_Assignment.html",
-    "1. Foundations + Python/Terms.md",
-    "2. Probability distributions/Untitled.md",
-    "1. Foundations + Python/Python.md",
     "Welcome.md"
   ]
 }
