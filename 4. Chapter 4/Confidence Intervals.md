@@ -72,7 +72,7 @@ Likelihood function is used to estimate the parameters of a model that we base o
 i.e. model with parameters theta, n
 L(theta | n) = P(n | theta)
 
-## Maximum Likelihood Estimation (MLE) (Most Likely)
+## Maximum Likelihood Estimation (MLE) (This means most likely)
 
 theta_hat = arg max_theta L(theta | n)
   ^
