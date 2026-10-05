@@ -1,0 +1,9 @@
+- Theoretical foundations of Bayesian Networks: Bayesian Networks are *directed acyclic graphs (DAGs)* that encode probabilistic and causal relationships through conditional independence assumptions, enabling transparent, explainable reasoning that contrasts with black-box deep learning models.
+
+- Structure and conditional relationships: Nodes represent random variables, edges represent direct probabilistic dependencies, and missing edges encode conditional independence; key concepts such as *factorization*, *conditional independence*, and *d-separation* (chains, common causes, and colliders) allow students to reason directly from the graph.
+
+- Explainability and efficiency: By exploiting conditional independence, Bayesian Networks dramatically reduce the number of required parameters, transforming otherwise intractable joint probability models into scalable systems suitable for real-world applications like medical diagnosis, fairness auditing, and safety-critical AI.
+
+- Inference and probabilistic reasoning: Bayesian Networks support multiple types of inference (marginal, conditional, diagnostic, and most probable explanation), using exact methods (e.g., variable elimination) or approximate methods (e.g., sampling and MCMC) to produce calibrated, explainable probabilistic outputs.
+
+- Implementation and learning in Python: Students learn to implement Bayesian Networks in Python using libraries such as *pgmpy* and *PyMC*, including parameter learning, structure learning (score-based and constraint-based methods), and integrating expert knowledge via white lists and black lists to evaluate model performance and outputs.

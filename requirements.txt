@@ -1,8 +1,10 @@
-pandas 
-numpy
-notebook
-seaborn
-ipykernel
-matplotlib
-scipy
-pip-system-certs
+pandas # Data manipulation and analysis library
+numpy # Numerical computing library
+notebook # Jupyter notebook interface
+seaborn # Statistical data visualization library
+ipykernel # Jupyter kernel for running notebooks
+matplotlib # Plotting library
+scipy # Scientific computing library
+pip-system-certs # SSL Cert work-around
+kagglehub # Kaggle datasets
+pgmpy # Probabilistic graphical models library

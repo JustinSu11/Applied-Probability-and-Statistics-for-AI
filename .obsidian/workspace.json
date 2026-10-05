@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Chapter 4/Testing.md",
+                "file": "5. Chapter 5 - Bayesian Networks/Bayesian Networks'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Bayesian Networks'"
             }
           }
         ]
@@ -187,12 +187,14 @@
   },
   "active": "7b99a63906a1291f",
   "lastOpenFiles": [
+    "4. Chapter 4/Testing.md",
+    "5. Chapter 5 - Bayesian Networks/Bayesian Networks'.md",
+    "5. Chapter 5 - Bayesian Networks",
     "Assignments/assignment 5.1/AAI_500_M5_Assignment_Template.ipynb",
     "Assignments/assignment 5.1/resources",
     "Assignments/assignment 5.1",
     "Assignments/assignment 4.1/Justin_Nguyen_Assignment_4.1.pdf",
     "4. Chapter 4/Confidence Intervals.md",
-    "4. Chapter 4/Testing.md",
     "stats_cheatsheet_ch1-5.ipynb",
     "stats_cheatsheet_ch1-4.ipynb",
     "0. Course Information.md",
@@ -203,8 +205,6 @@
     "Assignments/assignment 3.1/resources/AAI 500 Week 03 Assignment and Quiz Resource.pptx",
     "Assignments/assignment 3.1/resources",
     "3. Chapter 3/AAI500 Week 03 Lecture AA.pptx",
-    "3. Chapter 3",
-    "Assignments/assignment 2.1/Justin_Nguyen_Assignment_2.1.pdf",
     "Assignments/assignment 1.1/resources/readme.md",
     "Welcome.md"
   ]
